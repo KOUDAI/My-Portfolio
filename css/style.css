@@ -49,7 +49,7 @@ p {
 
 h1 {
     display: inline-block;
-    width: 23ch;
+/*     width: 23ch; */
     overflow: hidden;
     white-space: nowrap;
     font-weight: 400;
@@ -300,6 +300,9 @@ textarea {
     }
     .home-content {
         margin-top: 50%;
+    }
+    input {
+    width: 80%;
     }
     /* .pr-img {
         width: 70%;
